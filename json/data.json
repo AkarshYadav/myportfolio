@@ -1,0 +1,69 @@
+{
+    "Projects":[
+          {
+            "show": true,
+            "title": "AttendEase",
+            "desc": [
+              "AttendEase is a smart attendance management system built using Next.js, MongoDB, JavaScript, NextAuth, OAuth, and Shadcn UI. Designed specifically for educational institutions, it leverages proximity detection and dynamic QR codes to ensure secure and proxy-free attendance marking.",
+              "The system allows teachers or hosts to define the attendance session by setting the duration and geolocation radius. Students can mark their attendance only within the allowed proximity, significantly reducing the chances of proxy. Each class session generates a new QR code every 30 seconds, making the process dynamic and secure.",
+              "AttendEase features a robust dashboard where teachers can view analytics, download attendance records in Excel format, and monitor class-wise participation. Students have access to their personal attendance history and session records, fostering transparency and accountability.",
+              "This project reflects my interest in combining web development with real-world problem solving, especially within the education sector. It promotes fairness and simplifies attendance tracking for both educators and students."
+            ],
+            "year": "2024",
+            "preview": "https://testing-app-seven-rho.vercel.app/",
+            "code": "https://github.com/AkarshYadav/TestingApp",
+            "thumbnail": "/image/projects/web/attendease/attend2.png",
+            "images": [
+              "/image/projects/web/attendease/attend1.png",
+              "/image/projects/web/attendease/attend2.png",
+              "/image/projects/web/attendease/attend3.png",
+              "/image/projects/web/attendease/attend4.png",
+              "/image/projects/web/attendease/attend5.png"
+            ],
+            "tech": [
+              "NextJS",
+              "Shadcn UI",
+              "Tailwind CSS",
+              "MongoDB",
+              "NextAuth",
+              "OAuth"
+            ],
+            "slug": "attendease"
+          },
+          {
+            "show": true,
+            "title": "Gymkhana - IIITV",
+            "desc": [
+              "Gymkhana - IIITV is the digital heartbeat of extracurricular life at IIIT Vadodara. Designed and developed using Next.js, TypeScript, Tailwind CSS, Sanity CMS, Stripe, Shadcn UI, and Framer Motion, this dynamic web platform serves as a central hub for everything related to student life beyond academics.",
+              "The website provides a comprehensive view of all the Gymkhana committees, their affiliated clubs, and respective members. Each committee and club has its own dedicated page featuring its mission, team, activities, and achievements. From cultural and technical fests to niche student-driven initiatives, Gymkhana showcases it all.",
+              "A major feature of the platform is its integrated e-commerce section powered by Stripe, where students can browse and purchase official institute merchandise, club gear, and event goodies. This ensures a seamless experience from discovery to checkout.",
+              "The Events page brings all campus events to one place — whether it's a hackathon, workshop, fest, or seminar. Each event listing includes essential details like event schedules, descriptions, organizers, and registration options.",
+              "Gymkhana - IIITV is more than just a website — it's a vibrant ecosystem that celebrates student involvement, creativity, and initiative. This project reflects my passion for building purposeful digital platforms that empower communities and simplify complex workflows."
+            ],
+            "year": "2024",
+            "preview": "https://drive.google.com/file/d/1hx-YeXyTSH3XbT0DHKhlPtYRO4C0ovnB/view?usp=sharing",
+            "code": "https://github.com/AkarshYadav/gymkhana",
+            "thumbnail": "/image/projects/web/gymkhana/gymkhana1.png",
+            "images": [
+              "/image/projects/web/gymkhana/gymkhana1.png",
+              "/image/projects/web/gymkhana/gymkhana2.png",
+              "/image/projects/web/gymkhana/gymkhana3.png",
+              "/image/projects/web/gymkhana/gymkhana4.png",
+              "/image/projects/web/gymkhana/gymkhana5.png",
+              "/image/projects/web/gymkhana/gymkhana6.png",
+              "/image/projects/web/gymkhana/gymkhana7.png",
+              "/image/projects/web/gymkhana/gymkhana8.png"
+            ],
+            "tech": [
+              "NextJS",
+              "TypeScript",
+              "Tailwind CSS",
+              "Sanity",
+              "Stripe",
+              "Shadcn UI",
+              "Framer Motion"
+            ],
+            "slug": "gymkhana-iiitv"
+          }   
+    ]
+}
