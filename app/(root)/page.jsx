@@ -95,7 +95,7 @@ const MyPage = () => {
 										}}>
 										<Button variation="primary">
 											<Link
-												href={"/docs/cv.pdf"}
+												href={"https://drive.google.com/file/d/15mT0udR-wWytNGPuudxl6plUIfR0py2R/view?usp=sharing"}
 												target="_blank"
 												rel="noopener noreferrer"
 												download>
