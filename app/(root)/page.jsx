@@ -201,7 +201,7 @@ const MyPage = () => {
 							<div className="relative md:h-screen w-screen gap-4 p-10 flex justify-center items-center flex-col overflow-hidden">
 								<div className="z-0 mb-48 md:mb-0  md:absolute top-1/4  md:right-[10%] md:-translate-y-16 ">
 									<motion.div
-										className="bg-slate-300 rounded-sm h-[400px] md:h-[600px] w-[80vw] md:w-[30vw]  "
+										className=" rounded-sm h-[400px] md:h-[600px] w-[80vw] md:w-[30vw]  "
 										initial={{
 											x: 300,
 											opacity: 0,
